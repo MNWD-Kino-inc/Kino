@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21eed3f6-5b32-4497-9533-48d45d27f939" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/var/cache/prod/addons_advice/d1/5b31626331393663656165663561613431333133653033376364623761643539375d5b315d.doctrinecache.data" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/prod/addons_advice/d1/5b31626331393663656165663561613431333133653033376364623761643539375d5b315d.doctrinecache.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/prod/addons_advice/f8/5b37663736306461306535376561333934383564633161333765326465353366365d5b315d.doctrinecache.data" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/prod/addons_advice/f8/5b37663736306461306535376561333934383564633161333765326465353366365d5b315d.doctrinecache.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/prod/circuit_breaker/16/5b636972637569745f627265616b65725f64323838613438316536313234643337313663646438393935373235646266395d5b315d.doctrinecache.data" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/prod/circuit_breaker/16/5b636972637569745f627265616b65725f64323838613438316536313234643337313663646438393935373235646266395d5b315d.doctrinecache.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/prod/circuit_breaker/37/5b636972637569745f627265616b65725f633638616634616636393239623664383939626365393436623064626336653163633365306530373934343633613735323939356231306361613831306531305d5b315d.doctrinecache.data" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/prod/circuit_breaker/37/5b636972637569745f627265616b65725f633638616634616636393239623664383939626365393436623064626336653163633365306530373934343633613735323939356231306361613831306531305d5b315d.doctrinecache.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/prod/circuit_breaker/d5/5b63363861663461663639323962366438393962636539343662306462633665315d5b315d.doctrinecache.data" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/prod/circuit_breaker/d5/5b63363861663461663639323962366438393962636539343662306462633665315d5b315d.doctrinecache.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/prod/doctrine/3c/5b706c5f6c6f63616c5f6d6f64756c65735d5b315d.doctrinecache.data" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/prod/doctrine/3c/5b706c5f6c6f63616c5f6d6f64756c65735d5b315d.doctrinecache.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/prod/ps_mainmenu/1/MOD_BLOCKTOPMENU_MENU_JSON_1_1_1.json" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/prod/ps_mainmenu/1/MOD_BLOCKTOPMENU_MENU_JSON_1_1_1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/cache/ps_banner/1/1/1/14/classic/ab/d8/26/abd8260051ec2b68fa66b2028b545d209802899e.psbannerpsbanner.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/cache/ps_banner/1/1/1/14/classic/ab/d8/26/abd8260051ec2b68fa66b2028b545d209802899e.psbannerpsbanner.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/cache/ps_banner/1/1/14/classic/ab/d8/26/abd8260051ec2b68fa66b2028b545d209802899e.psbannerpsbanner.tpl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/cache/ps_customeraccountlinks/1/1/1/14/classic/2e/56/d3/2e56d381b79433a508ef8443c111e27f57f3b52a.pscustomeraccountlinkspsc.php" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/cache/ps_customeraccountlinks/1/1/1/14/classic/2e/56/d3/2e56d381b79433a508ef8443c111e27f57f3b52a.pscustomeraccountlinkspsc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/cache/ps_customeraccountlinks/1/1/14/classic/2e/56/d3/2e56d381b79433a508ef8443c111e27f57f3b52a.pscustomeraccountlinkspsc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/cache/ps_customtext/1/1/1/14/classic/80/19/3b/80193b50cfd2fc3b468875f7f09baa55d0ad9cdc.pscustomtextpscustomtext..php" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/cache/ps_customtext/1/1/1/14/classic/80/19/3b/80193b50cfd2fc3b468875f7f09baa55d0ad9cdc.pscustomtextpscustomtext..php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/cache/ps_customtext/1/1/14/classic/80/19/3b/80193b50cfd2fc3b468875f7f09baa55d0ad9cdc.pscustomtextpscustomtext..php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/cache/ps_featuredproducts/1/1/1/14/classic/9a/cf/c7/9acfc718c823aa8762a22f2741103cb19971eb27.psfeaturedproductsviewste.php" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/cache/ps_featuredproducts/1/1/1/14/classic/9a/cf/c7/9acfc718c823aa8762a22f2741103cb19971eb27.psfeaturedproductsviewste.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/cache/ps_featuredproducts/1/1/14/classic/9a/cf/c7/9acfc718c823aa8762a22f2741103cb19971eb27.psfeaturedproductsviewste.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/cache/ps_imageslider/1/1/1/14/classic/aa/6d/82/aa6d823017e7d224bcf6caf1339714aa21c043c7.psimagesliderviewstemplat.php" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/cache/ps_imageslider/1/1/1/14/classic/aa/6d/82/aa6d823017e7d224bcf6caf1339714aa21c043c7.psimagesliderviewstemplat.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/cache/ps_imageslider/1/1/14/classic/aa/6d/82/aa6d823017e7d224bcf6caf1339714aa21c043c7.psimagesliderviewstemplat.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/cache/ps_linklist/displayFooter/1/1/1/14/classic/04/e0/4d/04e04dbe457cd0e57d82e33de5abd36578d177e1.pslinklistviewstemplatesh.php" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/cache/ps_linklist/displayFooter/1/1/1/14/classic/04/e0/4d/04e04dbe457cd0e57d82e33de5abd36578d177e1.pslinklistviewstemplatesh.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/cache/ps_linklist/displayFooter/1/1/14/classic/04/e0/4d/04e04dbe457cd0e57d82e33de5abd36578d177e1.pslinklistviewstemplatesh.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/cache/ps_socialfollow/1/1/1/14/classic/dd/59/52/dd5952ce81c24df7745976fe76fec21864d09285.pssocialfollowpssocialfol.php" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/cache/ps_socialfollow/1/1/1/14/classic/dd/59/52/dd5952ce81c24df7745976fe76fec21864d09285.pssocialfollowpssocialfol.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/cache/ps_socialfollow/1/1/14/classic/dd/59/52/dd5952ce81c24df7745976fe76fec21864d09285.pssocialfollowpssocialfol.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/classic/a9/d4/96/a9d496f00a4f81df42699c4952850153d0f01d26_0.module.psmboviewstemplateshookre.php" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/classic/a9/d4/96/a9d496f00a4f81df42699c4952850153d0f01d26_0.module.psmboviewstemplateshookre.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2IUCqUp6uaoUSWBFzB5NOuas8RJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21eed3f6-5b32-4497-9533-48d45d27f939" name="Changes" comment="" />
+      <created>1670226968694</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670226968694</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

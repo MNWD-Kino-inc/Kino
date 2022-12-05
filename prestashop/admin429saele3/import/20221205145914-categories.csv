@@ -1,0 +1,9 @@
+Category ID;Active (0/1);Name *;Parent category
+10;1;Filmy
+11;1;Filmy DVD;Filmy
+12;1;Filmy Blu-Ray;Filmy
+13;1;Filmy Blu-Ray 4K;Filmy
+14;1;Filmy HD DVD;Filmy
+15;1;Filmy DivX;Filmy
+16;1;Filmy VCD;Filmy
+17;1;Płyty 3D;Filmy
