@@ -271,6 +271,6 @@ array_key_exists("use_regular_h1_structure", $context)) ? (($context["use_regula
 
     public function getSourceContext()
     {
-        return new Source("", "@PrestaShop/Admin/layout.html.twig", "C:\\xampp\\htdocs\\Kino\\prestashop\\src\\PrestaShopBundle\\Resources\\views\\Admin\\layout.html.twig");
+        return new Source("", "@PrestaShop/Admin/layout.html.twig", "C:\\Users\\maryk\\xampp\\htdocs\\Kino\\prestashop\\src\\PrestaShopBundle\\Resources\\views\\Admin\\layout.html.twig");
     }
 }
