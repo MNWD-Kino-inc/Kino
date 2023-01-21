@@ -11,7 +11,7 @@ RewriteEngine on
 
 
 #Domain: localhost
-RewriteRule . - [E=REWRITEBASE:/Kino/prestashop/]
+RewriteRule . - [E=REWRITEBASE:/]
 RewriteRule ^api(?:/(.*))?$ %{ENV:REWRITEBASE}webservice/dispatcher.php?url=$1 [QSA,L]
 
 # Images
