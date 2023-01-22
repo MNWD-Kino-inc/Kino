@@ -114,8 +114,8 @@ if __name__ == '__main__':
 
     driver.implicitly_wait(0.5)
 
-    driver.find_element(by=By.CSS_SELECTOR, value="#details-button").click()
-    driver.find_element(by=By.CSS_SELECTOR, value="#proceed-link").click()
+    # driver.find_element(by=By.CSS_SELECTOR, value="#details-button").click()
+    # driver.find_element(by=By.CSS_SELECTOR, value="#proceed-link").click()
     driver.implicitly_wait(0.5)
 
     driver.find_element(by=By.CSS_SELECTOR, value="#email").send_keys("bogush22092209@gmail.com")
@@ -132,6 +132,7 @@ if __name__ == '__main__':
     driver.implicitly_wait(55)
 
     # category
+    sleep(2)
     chooseFile = driver.find_element(by=By.ID, value="file")
     chooseFile.send_keys("C:/xampp/htdocs/Kino/Kino/parser/final/categories.csv")
     driver.implicitly_wait(9)
