@@ -1,0 +1,47 @@
+Category ID;Active (0/1);Name *;Parent category
+10;1;Filmy
+11;1;Dla dzieci;Filmy
+12;1;Komedie;Filmy
+13;1;Dramaty;Filmy
+14;1;Science Fiction;Filmy
+15;1;Thrillery;Filmy
+16;1;Akcja;Filmy
+17;1;Sensacyjne;Filmy
+18;1;Musicale;Filmy
+19;1;Muzyczne;Filmy
+20;1;Młodzieżowe;Filmy
+21;1;Obyczajowe;Filmy
+22;1;Pozostałe;Filmy
+23;1;Przygodowe;Filmy
+24;1;Seriale polskie;Filmy
+25;1;Romantyczne;Filmy
+26;1;Kursy, ćwiczenia;Filmy
+27;1;Seriale zagraniczne;Filmy
+28;1;Sportowe;Filmy
+29;1;Tajemnicze;Filmy
+30;1;Teatr;Filmy
+31;1;Westerny;Filmy
+32;1;Wojenne;Filmy
+33;1;LGBT;Filmy
+34;1;Kostiumowe;Filmy
+35;1;Krótkometrażowe;Filmy
+36;1;Historyczne;Filmy
+37;1;Anime;Filmy
+38;1;Biograficzne;Filmy
+39;1;Bollywood;Filmy
+40;1;Dokumentalne;Filmy
+41;1;Dramaty (polskie);Filmy
+42;1;Erotyczne;Filmy
+43;1;Fantasy;Filmy
+44;1;Fitness;Filmy
+45;1;Horrory;Filmy
+46;1;Kryminały;Filmy
+47;1;Indie i Arthouse;Filmy
+48;1;Interaktywne;Filmy
+49;1;Kabarety;Filmy
+50;1;Kino Rodzinne;Filmy
+51;1;Kino Światowe;Filmy
+52;1;Komedie (polskie);Filmy
+53;1;Koncerty, teledyski;Filmy
+54;1;Animacja;Filmy
+55;1;Wydania kolekcjonerskie;Filmy

@@ -1,0 +1,19 @@
+version: '3.8'
+services:
+  db:
+    build: ./database
+    container_name: db
+    environment:
+      - MYSQL_ROOT_PASSWORD=password
+      - MARIADB_USER=kinouser
+      - MARIADB_PASSWORD=password
+      - DOMAIN_NAME=127.0.0.1
+      - PHYSICAL_URI=/
+      - HOST_HTTP=8910
+      - HOST_HTTPS=8910
+  prestashop:
+    build: ./KINO
+    ports:
+      - '8910:80'
+    depends_on:
+      - db
