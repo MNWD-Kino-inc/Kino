@@ -34,7 +34,7 @@ def add_product(num):
 def rej_account():
     driver.find_element(by=By.CSS_SELECTOR, value="#field-firstname").send_keys("Nina")
     driver.find_element(by=By.CSS_SELECTOR, value="#field-lastname").send_keys("Orlowska")
-    driver.find_element(by=By.CSS_SELECTOR, value="#field-email").send_keys("zenevichnikita2001@gmail.com")
+    driver.find_element(by=By.CSS_SELECTOR, value="#field-email").send_keys("kotopecorigami@gmail.com")
     driver.find_element(by=By.CSS_SELECTOR, value="#field-password").send_keys("1234!@#$")
     driver.find_element(by=By.CSS_SELECTOR, value="#field-birthday").send_keys("2000-03-15")
     driver.implicitly_wait(0.5)
