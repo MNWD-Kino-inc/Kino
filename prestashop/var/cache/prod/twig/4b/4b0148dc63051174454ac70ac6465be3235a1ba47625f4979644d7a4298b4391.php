@@ -256,6 +256,6 @@ class __TwigTemplate_69e5556aaf632617a88230fa82c797ac1e1b0fd58f2a0bd6c2dcf244bdd
 
     public function getSourceContext()
     {
-        return new Source("", "@PrestaShop/Admin/TwigTemplateForm/translatable_choice.html.twig", "C:\\Users\\maryk\\xampp\\htdocs\\Kino\\prestashop\\src\\PrestaShopBundle\\Resources\\views\\Admin\\TwigTemplateForm\\translatable_choice.html.twig");
+        return new Source("", "@PrestaShop/Admin/TwigTemplateForm/translatable_choice.html.twig", "D:\\Programms\\xampp\\htdocs\\Kino\\prestashop\\src\\PrestaShopBundle\\Resources\\views\\Admin\\TwigTemplateForm\\translatable_choice.html.twig");
     }
 }

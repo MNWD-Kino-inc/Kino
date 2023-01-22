@@ -363,6 +363,6 @@ class __TwigTemplate_46d380c4c043d29bcba46818046bba841725ee61ac6d26e8703855a52b1
 
     public function getSourceContext()
     {
-        return new Source("", "@PrestaShop/Admin/Multistore/header.html.twig", "C:\\Users\\maryk\\xampp\\htdocs\\Kino\\prestashop\\src\\PrestaShopBundle\\Resources\\views\\Admin\\Multistore\\header.html.twig");
+        return new Source("", "@PrestaShop/Admin/Multistore/header.html.twig", "D:\\Programms\\xampp\\htdocs\\Kino\\prestashop\\src\\PrestaShopBundle\\Resources\\views\\Admin\\Multistore\\header.html.twig");
     }
 }
